@@ -1,0 +1,14 @@
+{
+  "name": "proudplaces",
+  "version": "1.0.0",
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "jquery": "~2.0.2",
+    "underscore": "~1.4.4",
+    "leaflet": "~0.5.1",
+    "jquery.form": "~3.18.0",
+    "requirejs": "~2.1.6",
+    "normalize-css": "~2.1.2",
+    "font-awesome": "~3.1.1"
+  }
+}
